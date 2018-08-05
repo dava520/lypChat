@@ -48,6 +48,8 @@ class Config implements \ArrayAccess
 
     private function __clone()
     {
+
+        //11git
         // TODO: Implement __clone() method.
     }
 }
