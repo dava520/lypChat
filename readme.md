@@ -26,7 +26,7 @@ php webim_server.php
 cd ./public
 php -S localhost:8000
 ```
-浏览器访问 localhost:8000 即可进入聊天
+浏览器访问 localhost:8000 即可进入聊天1111
 
 ## 截图
 ![webim](http://moell.cn/uploads/webim/show.png "webim")
